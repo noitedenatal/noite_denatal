@@ -1,6 +1,6 @@
 # Hello, world 🌎
 
-Meu nome é Igor
+Meu nome é ****
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript  
